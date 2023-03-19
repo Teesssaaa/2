@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 public class NewTst {
     @Test
     void newTest() {
-        Assertions.assertTrue(3 > 2);
+        Assertions.assertTrue(1 > 2);
         
     }
 }
